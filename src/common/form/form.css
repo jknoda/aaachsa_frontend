@@ -1,0 +1,10 @@
+.rw-widget-picker{
+    height: 2em !important;
+}
+
+.rw-btn {
+    min-width: 30px !important;
+}
+.displaynone {
+    display: none;
+}
