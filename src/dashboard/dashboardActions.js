@@ -1,6 +1,7 @@
 import axios from 'axios'
 import { toastr } from 'react-redux-toastr'
-const BASE_URL = 'http://localhost:3003/api'
+import consts from '../consts'
+const BASE_URL = consts.API_URL // 'http://localhost:3003/api'
 const EmpIdf = {EmpIdf:1}
 
 export function getSummary() {
