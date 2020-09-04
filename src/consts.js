@@ -1,6 +1,6 @@
 export default {
-    API_URL: 'http://localhost:3003/api',
-    OAPI_URL: 'http://localhost:3003/oapi',
+    API_URL: 'https://aaachsa-backend.herokuapp.com/api',
+    OAPI_URL: 'https://aaachsa-backend.herokuapp.com/oapi',
     EmpIdf: 1,
     PerfilCod: 2,
     TPessoaCod: 1,
